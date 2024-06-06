@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abiball 2024</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Abiball 2024</h1>
+        <p>Willkommen zu unserem unvergesslichen Abend!</p>
+      </header>
+      <main>
+        <section>
+          <h2>Programm</h2>
+          <ul>
+            <li>Das ausführliche Programm finden Sie <a href="pdf/programm.pdf"
+
+                target="_blank">hier.</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Speisekarte</h2>
+          <ul>
+            <li>Werfen Sie einen Blick auf unsere <a href="Speiseplan.jpg" target="_blank">Speisekarte.</a></li>
+          </ul>
+        </section>
+        <section>
+          <h2>Sitzplan</h2>
+          <ul>
+            <li>Werfen Sie einen Blick auf die<a href="pdf/speisekarte.pdf" target="_blank">
+                Sitzordnung.</a></li>
+          </ul>
+        </section>
+        <footer>
+          <p>Hintergrund
+von:https://www.vectorstock.com/royalty-free-vector/celebration-background-with-glittery-gold-balloons-vector-24216154</p>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>
